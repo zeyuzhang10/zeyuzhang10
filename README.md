@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi! I’m Zeyu Zhang, currently an undergraduate student at the School of Mathematics and Computer Science at Nanchang University. My research interests focus on Computer Vision, Cross-modal Retrieval, Multi-modal Pre-training.
+
 <!--
 **zeyuzhang10/zeyuzhang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
