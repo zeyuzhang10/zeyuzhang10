@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there is Zeyu👋
 
 Hi! I’m Zeyu Zhang, currently an undergraduate student at the School of Mathematics and Computer Science at Nanchang University. My research interests focus on Computer Vision, Cross-modal Retrieval, Multi-modal Pre-training.
 
