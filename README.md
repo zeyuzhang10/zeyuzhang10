@@ -1,6 +1,8 @@
 ## Hi there is Zeyu👋
 
-Hi! I’m Zeyu Zhang, currently an undergraduate student at the School of Mathematics and Computer Science at Nanchang University. My research interests focus on Computer Vision, Cross-modal Retrieval, Multi-modal Pre-training.
+I am Zeyu Zhang (张泽渝). My research interests center on Multimodal Large Language Models and Intelligent Agents, with recent work spanning Object Re-ID, Medical Image Analysis, and Multimodal Learning.
+
+My academic path includes the School of Mathematics and Computer Science at Nanchang University and, beginning in September 2026, the University of Science and Technology of China.
 
 <!--
 **zeyuzhang10/zeyuzhang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
